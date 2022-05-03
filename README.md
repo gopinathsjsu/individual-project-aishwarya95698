@@ -23,10 +23,10 @@ The objective of the project is to develop a JAVA application for a user to purc
 # Steps to run the program
 1. Create a folder by cloning the repository in which all the files are present.
 2. Change the current directory to the src file.
-3. Move the current directory to the src file.
-4. To compile the source code run :  'Javac Billing.java' in src folder.
-5. After compilation in src folder run : 'java Billing'.
-6. Once you run the above command you would be asked to enter the input file path. 
+3. To compile the source code run :  'Javac Billing.java' in src folder.
+4. After compilation in src folder run : 'java Billing' or right click on Billing.java file and run the file.
+5. Once you run the above command you would be asked to enter the input file path, there are 4 sample inputs provided in the resources folder.
+6. NOTE : Before executing, please change the filepaths of 'itemfilepath, cardfilepath and outputfilepath' in  Billing.java file to the respective filepaths of cards.csv,items.csv available in resources folder in your local system. For output can give resources folder filepath available in your local system once you clone this repository.
 
 ## Design Patterns Used
 ### Singleton
