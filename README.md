@@ -1,4 +1,3 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # Individual-Project-Aishwarya Paruchuri
 
@@ -29,5 +28,13 @@ The objective of the project is to develop a JAVA application for a user to purc
 5. After compilation in src folder run : 'java Billing'.
 6. Once you run the above command you would be asked to enter the input file path. 
 
+## Design Patterns Used
+### Singleton
+* Singleton is a creational design pattern that lets you ensure that a class has only one instance, 
+while providing a global access point to this instance.
+Used this design pattern to create repository to store the incoming items and cards data of the application.
+* Class Repository.java is the implementation of Singleton Design pattern.
+* Every time a call to  Repository.getInstance() a same instance of Repository is returned.
+![](//home/aishu/Pictures/singeton.png)
 
 
