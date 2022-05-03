@@ -47,6 +47,16 @@ The pattern allows you to produce different types and representations of an obje
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Builder.png)
 
 
+## Class Diagram
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Class_Diagram.jpeg)
+
+
+## Screenshots of Test Cases
+
+
+
+
 
 
 

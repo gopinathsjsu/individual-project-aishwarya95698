@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class Billing {
 
-    private static final String itemFilePath ="/home/aishu/eclipse-workspace/Test/resources/stock.csv";
-    private static final String cardFilePath ="/home/aishu/eclipse-workspace/Test/resources/cards.csv";
-    private static final String outputFilePath ="/home/aishu/eclipse-workspace/Test/resources/";
+    private static final String itemFilePath ="/home/aishu/CMPE202/individual-project-aishwarya95698/resources/stock.csv";
+    private static final String cardFilePath ="/home/aishu/CMPE202/individual-project-aishwarya95698/resources/cards.csv";
+    private static final String outputFilePath ="/home/aishu/CMPE202/individual-project-aishwarya95698/resources/";
 
     public static void main(String[] args) {
         ReaderFactory readerFactory = new ReaderFactory();
