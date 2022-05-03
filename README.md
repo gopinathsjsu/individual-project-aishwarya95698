@@ -2,7 +2,7 @@
 
 ## Contents
 
- * [Problem Statement](#understanding the problem statement)
+ * [Problem Statement] (#understanding the problem statement)
  * [Steps to run the program](#quick-start)
  * [Folder Structure](#folder-structure)
  * [Installation](#installation)
@@ -16,7 +16,7 @@
 
 
 
-# Problem Statement
+## Problem Statement
 The objective of the project is to develop a JAVA application for a user to purchase products online.The application should maintain an internal, static database. This means once we re-run the program, the changes to the data would not persist. The user is only allowed to buy a certain number of products from each category available. The order should satisfy the given requirements, and if it does, a bill amount should be generated. If the order does not satisfy the requirements, an output.txt file should be generated, stating the limitation should be generated.Output file type for a successfully processed order will be a .csv and for all other cases a .txt file.
 
 # Steps to run the program
