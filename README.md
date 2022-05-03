@@ -36,13 +36,15 @@ In other words, subclasses are responsible to create the instance of the class
 * Objects of different reader types can be created by the ReaderFactory.
 * getInstance method of ReaderFactory takes readerType as input and returns a new instance of respective reader.
 
-
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory.png)
 
 ### Builder
 * Builder is a creational design pattern that lets you construct complex objects step by step. 
 The pattern allows you to produce different types and representations of an object using the same construction code.
 * Class Item.java class is the implementation of Builder design pattern.
 * As Item constructor is private Item object can not be created using the default constructor it can only be created using ItemBuilder.
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Builder.png)
 
 
 
