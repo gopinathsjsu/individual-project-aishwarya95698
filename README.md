@@ -25,7 +25,8 @@ while providing a global access point to this instance.
 Used this design pattern to create repository to store the incoming items and cards data of the application.
 * Class Repository.java is the implementation of Singleton Design pattern.
 * Every time a call to  Repository.getInstance() a same instance of Repository is returned.
-![](/home/aishu/individual-project-aishwarya95698/singleton.png)
+![](file:///home/aishu/CMPE202/individual-project-aishwarya95698/singleton.png)
+
 
 
 
