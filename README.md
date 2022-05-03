@@ -54,6 +54,26 @@ The pattern allows you to produce different types and representations of an obje
 
 ## Screenshots of Test Cases
 
+## Test case1:
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output1.png)
+
+
+## Test case2:
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output2.png)
+
+
+## Test case3:
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output3.png)
+
+
+##Test case4:
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output4.png)
+
+
 
 
 
