@@ -25,7 +25,25 @@ while providing a global access point to this instance.
 Used this design pattern to create repository to store the incoming items and cards data of the application.
 * Class Repository.java is the implementation of Singleton Design pattern.
 * Every time a call to  Repository.getInstance() a same instance of Repository is returned.
+
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/singleton.png)
+
+### Factory
+* A Factory Pattern or Factory Method Pattern says that just define an interface or abstract class for 
+creating an object but let the subclasses decide which class to instantiate. 
+In other words, subclasses are responsible to create the instance of the class
+* Class ReaderFactory.java is the implementation of Factory design pattern.
+* Objects of different reader types can be created by the ReaderFactory.
+* getInstance method of ReaderFactory takes readerType as input and returns a new instance of respective reader.
+
+
+
+### Builder
+* Builder is a creational design pattern that lets you construct complex objects step by step. 
+The pattern allows you to produce different types and representations of an object using the same construction code.
+* Class Item.java class is the implementation of Builder design pattern.
+* As Item constructor is private Item object can not be created using the default constructor it can only be created using ItemBuilder.
+
 
 
 
