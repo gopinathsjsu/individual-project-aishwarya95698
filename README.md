@@ -1,12 +1,6 @@
 
 # Individual-Project-Aishwarya Paruchuri
 
-## Contents
-
- * [Problem Statement](#understanding-customer-churn)
- * [Steps to run the program](#quick-start)
-
-
 ## Problem Statement
 The objective of the project is to develop a JAVA application for a user to purchase products online.The application should maintain an internal, static database. This means once we re-run the program, the changes to the data would not persist. The user is only allowed to buy a certain number of products from each category available. The order should satisfy the given requirements, and if it does, a bill amount should be generated. If the order does not satisfy the requirements, an output.txt file should be generated, stating the limitation should be generated.Output file type for a successfully processed order will be a .csv and for all other cases a .txt file.
 
@@ -69,7 +63,7 @@ The pattern allows you to produce different types and representations of an obje
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output3.png)
 
 
-##Test case4:
+## Test case4:
 
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output4.png)
 
