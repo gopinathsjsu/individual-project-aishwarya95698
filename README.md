@@ -2,7 +2,7 @@
 
 ## Contents
 
- * [Problem Statement] (#understanding the problem statement)
+ * [Problem Statement](#understanding the problem statement)
  * [Steps to run the program](#quick-start)
  * [Folder Structure](#folder-structure)
  * [Installation](#installation)
