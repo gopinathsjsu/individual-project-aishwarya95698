@@ -1,5 +1,21 @@
 # Individual-Project-Aishwarya Paruchuri
-individual-project-aishwarya95698 created by GitHub Classroom
-\t
-Name : Aishwarya Paruchuri
-Student ID : 015017639
+
+# Problem Statement
+The
+
+## Contents
+
+ * [Understanding customer churn](#understanding-customer-churn)
+ * [Quick start](#quick-start)
+ * [Folder Structure](#folder-structure)
+ * [Installation](#installation)
+ * [Steps to run the project](#steps-to-run-the-project)
+ * [Dataset](#Dataset)
+ * [Problem being investigated](#problem-being-investigated)
+ * [Data Science Life cycle](#data-science-life-cycle)
+ * [Conclusion](#Conclusion)
+ * [Contributors](#Contributors)
+ * [License](#License)
+
+
+
