@@ -49,23 +49,23 @@ The pattern allows you to produce different types and representations of an obje
 
 ## Screenshots of Test Cases
 
-## Test case1:
+## Test case 1:
 * Here, I have given a list of items in the form of a csv file and it will output it in the form of csv file giving details of itemname, requested quantity and the total amount to be paid.
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output1.png)
 
 
-## Test case2:
+## Test case 2:
 * Here, for the input csv file containing the list of items to be purchased, I have entered a new card number so the application would identify and update it in the database. It will generate output in the form of csv file and will give details of the total amount to be paid along with the details of the items purchased and the quantity of those items.
 
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output2.png)
 
 
-## Test case3:
+## Test case 3:
 * In this assignment, we have set a capacity limit on items. For example, restricted Essentials to a maximum of 3, Luxury to 4, and Misc to 6. In this test case, I have exceeded Essential item's capacity on purpose. So, it would output a txt file saying which item has exceeded the capacity limit.
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output3.png)
 
 
-## Test case4:
+## Test case 4:
 * In this test case, I have tried to exceed the quantity of an item, i.e added 10k pens to be purchased in the csv input file. So, the application would give an error message in the form of txt file, saying stock not available as it has exceeded the capacity limit.
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/sample_output4.png)
 
