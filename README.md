@@ -22,6 +22,9 @@ Used this design pattern to create repository to store the incoming items and ca
 * Every time a call to  Repository.getInstance() a same instance of Repository is returned.
 
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/singleton.png)
+#### UML class diagram for Singleton 
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Singleton_UML.png)
 
 ### Factory
 * A Factory Pattern or Factory Method Pattern says that just define an interface or abstract class for 
@@ -34,7 +37,7 @@ In other words, subclasses are responsible to create the instance of the class
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory.png)
 #### UML class diagram for Factory 
 
-![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory.UML)
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory_UML.png)
 
 
 ### Builder
@@ -44,6 +47,9 @@ The pattern allows you to produce different types and representations of an obje
 * As Item constructor is private Item object can not be created using the default constructor it can only be created using ItemBuilder.
 
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Builder.png)
+#### UML class diagram for Builder
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Builder_UML.png)
 
 
 ## Class Diagram
