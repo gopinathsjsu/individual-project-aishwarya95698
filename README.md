@@ -11,6 +11,7 @@ The objective of the project is to develop a JAVA application for a user to purc
 4. After compilation in src folder run : 'java Billing' or right click on Billing.java file and run the file.
 5. Once you run the above command you would be asked to enter the input file path, there are 4 sample inputs provided in the resources folder.
 6. NOTE : Before executing, please change the filepaths of 'itemfilepath, cardfilepath and outputfilepath' in  Billing.java file to the respective filepaths of cards.csv,items.csv available in resources folder in your local system. For output can give resources folder filepath available in your local system once you clone this repository.
+7. NOTE : Makre sure you're running a configuration of jdk16 or newer. To check go to Files-> Project Structure and select jdk 16 from drop down before running Billing.java
 
 ## Design Patterns Used
 ### Singleton
