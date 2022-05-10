@@ -32,6 +32,10 @@ In other words, subclasses are responsible to create the instance of the class
 * getInstance method of ReaderFactory takes readerType as input and returns a new instance of respective reader.
 
 ![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory.png)
+#### UML class diagram for Factory 
+
+![](https://github.com/gopinathsjsu/individual-project-aishwarya95698/blob/master/Factory.UML)
+
 
 ### Builder
 * Builder is a creational design pattern that lets you construct complex objects step by step. 
